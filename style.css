@@ -48,24 +48,24 @@ body {
 }
 
 .featured-station-card {
-  border: 2px solid #FFD700;
+  border: 2px solid #6A5ACD;
   padding: 1.5rem;
   border-radius: 12px;
-  background: linear-gradient(135deg, #FFF8DC, #FFFAF0);
+  background: linear-gradient(135deg, #E6E6FA, #F0F8FF);
   max-width: 400px;
   margin: 1rem auto;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .featured-station-card h3 {
-  color: #B8860B;
+  color: #4B0082;
   margin-top: 0;
   font-size: 1.4em;
 }
 
 .featured-label {
-  background-color: #FFD700;
-  color: #8B4513;
+  background-color: #6A5ACD;
+  color: white;
   padding: 0.5rem 1rem;
   border-radius: 20px;
   font-weight: bold;
